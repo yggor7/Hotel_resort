@@ -11,7 +11,7 @@ define('DB_PASS', '@hoteluser202Digital*');
 define('DB_CHARSET', 'utf8mb4');
 
 // URL du site (sans slash final)
-define('SITE_URL', 'https://digitalweb.africa');
+define('SITE_URL', 'https://hotel.digitalweb.africa');
 
 // Chemin absolu vers la racine du projet
 define('ROOT_PATH', dirname(__DIR__));
