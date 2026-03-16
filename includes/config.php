@@ -5,13 +5,13 @@
 // ============================================
 
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'island_hotel');
-define('DB_USER', 'root');
-define('DB_PASS', '1234*');
+define('DB_NAME', 'digitalweb_hotel');
+define('DB_USER', 'digitalweb_hoteluser');
+define('DB_PASS', '@hoteluser202Digital*');
 define('DB_CHARSET', 'utf8mb4');
 
 // URL du site (sans slash final)
-define('SITE_URL', 'http://localhost:8001');
+define('SITE_URL', 'https://digitalweb.africa');
 
 // Chemin absolu vers la racine du projet
 define('ROOT_PATH', dirname(__DIR__));
